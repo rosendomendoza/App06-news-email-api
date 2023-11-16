@@ -27,3 +27,4 @@ From: Automatic News
 """
 message = message.encode('utf-8')
 send_email(SUBSCRIPTION_LIST, message)
+

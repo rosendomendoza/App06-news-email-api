@@ -40,3 +40,6 @@ def news_about(topic):
 
     # return a dictionary with data
     return request.json()
+
+
+
